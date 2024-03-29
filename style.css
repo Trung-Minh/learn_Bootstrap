@@ -1,0 +1,18 @@
+.box {
+  background-color: aqua;
+  min-height: 50px;
+  /* margin: 10px; */
+}
+
+i {
+  color: red;
+}
+
+p {
+  font-size: 40px;
+}
+
+.bg-light,
+.bg-white {
+  border: 1px solid black;
+}
